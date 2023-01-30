@@ -7,3 +7,4 @@ Test branch line to added
 Main branch line added
 
 Conflict behavior
+Conflict branch v2 test
